@@ -1,0 +1,1 @@
+bin/jmeter -n -t config_311.jmx -l result_311.txt -e -o report_311
